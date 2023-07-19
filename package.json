@@ -36,7 +36,7 @@
     "@nuxt/eslint-config": "^0.1.1",
     "@types/node": "^20.3.3",
     "eslint": "^8.44.0",
-    "nuxt": "^3.6.1",
+    "nuxt": "npm:nuxt3@pr-22227",
     "release-it": "^15.11.0",
     "typescript": "^5.1.6"
   },
